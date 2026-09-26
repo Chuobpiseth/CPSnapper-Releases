@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "app": "CPSnapper Pro",
+  "channel": "stable",
+  "version": "0.0.2",
+  "published_at": "2026-09-26T14:27:49Z",
+  "mandatory": false,
+  "notes": [
+    "Public signed update feed, selectable versions, and authorized DramaBox/Hongguo adapter framework."
+  ],
+  "package": {
+    "filename": "CPSnapper-Pro-0.0.2-Windows-Portable-production.zip",
+    "executable": "CPSnapper-Pro-0.0.2-Portable.exe",
+    "size": 181535135,
+    "sha256": "17c2ddf89e586f101317b96937d83904f61c04a03de027de3b76b8515b798818",
+    "url": "https://github.com/Chuobpiseth/CPSnapper-Releases/releases/download/v0.0.2/CPSnapper-Pro-0.0.2-Windows-Portable-production.zip"
+  },
+  "signature": "3s0DycEvMGSQolzxi5CcjLYXDWa+3MM7tcXCkU314VGfCB5UjnScpVNEd9uTK3HFj7TGPknyp3kC3kqRh69cBw=="
+}
