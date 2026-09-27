@@ -4,6 +4,22 @@
   "channel": "uat",
   "versions": [
     {
+      "version": "1.0.3",
+      "published_at": "2026-09-27T13:41:13Z",
+      "mandatory": false,
+      "notes": [
+        "UAT build of the 1.0.3 UI and preference fixes."
+      ],
+      "manifest_url": "https://raw.githubusercontent.com/Chuobpiseth/CPSnapper-Releases/main/uat/1.0.3.json",
+      "package": {
+        "filename": "CPSnapper-Pro-1.0.3-Windows-Portable-uat.zip",
+        "executable": "CPSnapper-Pro-1.0.3-Portable.exe",
+        "size": 185996579,
+        "sha256": "8b3cc0d3b6511b0fc61160ec0e2b3e11b008c71b90c5d1b2fd41410b005aee2f",
+        "url": "https://github.com/Chuobpiseth/CPSnapper-Releases/releases/download/uat-v1.0.3/CPSnapper-Pro-1.0.3-Windows-Portable-uat.zip"
+      }
+    },
+    {
       "version": "1.0.2",
       "published_at": "2026-09-27T12:55:54Z",
       "mandatory": false,
@@ -40,6 +56,6 @@
       }
     }
   ],
-  "latest": "1.0.2",
-  "signature": "3BUuPEd/q0t0GpWsks462JXIaocioOWBsj50eoc7KYykwjCN8cxOk3Y/2R5DopnRafSt2FTBny2sncb9507cBA=="
+  "latest": "1.0.3",
+  "signature": "HsaL5gT9AG83Ml1iC155GzBFeSkKf+vI2MEQoytpLx2tIkdA0e7RJcA0G87IrmAUc0aiGOHPlDDD9D2EiajCDg=="
 }
