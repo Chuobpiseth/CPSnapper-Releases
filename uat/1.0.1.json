@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "app": "CPSnapper Pro",
+  "channel": "uat",
+  "version": "1.0.1",
+  "published_at": "2026-09-27T08:59:15Z",
+  "mandatory": false,
+  "notes": [
+    "Cleaner subscription dialog and faster initial UI load",
+    "Periodic update checks while running in the tray",
+    "Dynamic Bakong checkout improvements"
+  ],
+  "package": {
+    "filename": "CPSnapper-Pro-1.0.1-Windows-Portable-uat.zip",
+    "executable": "CPSnapper-Pro-1.0.1-Portable.exe",
+    "size": 185996758,
+    "sha256": "cf8fae164224cfa8201244339800ef127381669ee54fecbfac7922dd126ff856",
+    "url": "https://github.com/Chuobpiseth/CPSnapper-Releases/releases/download/uat-v1.0.1/CPSnapper-Pro-1.0.1-Windows-Portable-uat.zip"
+  },
+  "signature": "UNSx+b9JQQTkDla036IbnzurvXOi4mcunjVr8CMc4epFtXYazbihj5lWkerQrrWcYe3UgooRta4P6y8GTQbiBA=="
+}
