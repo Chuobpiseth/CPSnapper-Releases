@@ -4,6 +4,24 @@
   "channel": "stable",
   "versions": [
     {
+      "version": "1.0.4",
+      "published_at": "2026-09-28T03:22:58Z",
+      "mandatory": false,
+      "notes": [
+        "Faster installed startup, reliable update restart, and improved dialog spacing",
+        "Upgrading from 1.0.3 may require running Setup once because the older updater can fail to restart"
+      ],
+      "manifest_url": "https://raw.githubusercontent.com/Chuobpiseth/CPSnapper-Releases/main/stable/1.0.4.json",
+      "package": {
+        "layout": "onefile",
+        "filename": "CPSnapper-Pro-1.0.4-Windows-Portable-production.zip",
+        "executable": "CPSnapper-Pro-1.0.4-Portable.exe",
+        "size": 185999655,
+        "sha256": "48dbaeb15f76d8f98a10d1f4b2e4376a5326e70a7dac5d48073955589864a3af",
+        "url": "https://github.com/Chuobpiseth/CPSnapper-Releases/releases/download/v1.0.4/CPSnapper-Pro-1.0.4-Windows-Portable-production.zip"
+      }
+    },
+    {
       "version": "1.0.3",
       "published_at": "2026-09-27T13:30:38Z",
       "mandatory": false,
@@ -36,6 +54,6 @@
       }
     }
   ],
-  "latest": "1.0.3",
-  "signature": "+ruIqFr0LMNwMnmjoR9JdbaeJZDcxwM8VJBe/YQxRxsqBSVPNo1AMNtbUnX0mDdLVfoiLMfXLwSSsA2NRrluBw=="
+  "latest": "1.0.4",
+  "signature": "9WBUX9EuLwoNjYLGMET+kEJswi/CDGcoR0KU6e1QQa7EjJKyqon6OhQramOpZBqbf1LMR2C8UqKHnega8FxfCA=="
 }
