@@ -4,6 +4,23 @@
   "channel": "uat",
   "versions": [
     {
+      "version": "1.0.4",
+      "published_at": "2026-09-28T02:48:47Z",
+      "mandatory": false,
+      "notes": [
+        "Faster installed startup, reliable update restart, and improved dialog spacing"
+      ],
+      "manifest_url": "https://raw.githubusercontent.com/Chuobpiseth/CPSnapper-Releases/main/uat/1.0.4.json",
+      "package": {
+        "layout": "onefile",
+        "filename": "CPSnapper-Pro-1.0.4-Windows-Portable-uat.zip",
+        "executable": "CPSnapper-Pro-1.0.4-Portable.exe",
+        "size": 185998573,
+        "sha256": "0fc58c4e5cd2cef97ebc61eec69865b0d85438fcedda79a5f5d5ceaaa73ae478",
+        "url": "https://github.com/Chuobpiseth/CPSnapper-Releases/releases/download/uat-v1.0.4/CPSnapper-Pro-1.0.4-Windows-Portable-uat.zip"
+      }
+    },
+    {
       "version": "1.0.3",
       "published_at": "2026-09-27T13:41:13Z",
       "mandatory": false,
@@ -56,6 +73,6 @@
       }
     }
   ],
-  "latest": "1.0.3",
-  "signature": "HsaL5gT9AG83Ml1iC155GzBFeSkKf+vI2MEQoytpLx2tIkdA0e7RJcA0G87IrmAUc0aiGOHPlDDD9D2EiajCDg=="
+  "latest": "1.0.4",
+  "signature": "BoeV0hOzi/V5SZ0tIOMH11rW4tQeqCE6GfHz+iXUDVNu9mVGlbYO4/zYsCjXA5NQhXhM591yTAoSSupin24lAg=="
 }
